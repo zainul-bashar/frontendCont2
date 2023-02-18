@@ -1,0 +1,35 @@
+
+
+#tableContent{
+    border: 1px solid black;
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+}
+th{
+    border: 1px solid white;
+}
+#heading{
+    color: white;
+    margin-left: 30px;
+}
+*{
+    background-color: black;
+}
+#issued{
+    color: white;
+}
+#btn{
+    background-color: white;
+    width: 500px;
+    height: 30px;
+    margin-left: 30px;
+}
+input{
+    width: 400px;
+    height: 25px;
+    color: white;
+}
+label{
+   margin-left: 30px;
+}
